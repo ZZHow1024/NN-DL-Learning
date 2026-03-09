@@ -25,3 +25,5 @@
 [**Day01（深度学习 与 PyTorch**）](https://github.com/ZZHow1024/NN-DL-Learning/tree/main/Day01)
 
 [**Day02（张量 与 自动微分）**](https://github.com/ZZHow1024/NN-DL-Learning/tree/main/Day02)
+
+[**Day03（自动微分 与 激活函数）**](https://github.com/ZZHow1024/NN-DL-Learning/tree/main/Day03)
