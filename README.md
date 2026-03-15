@@ -27,3 +27,5 @@
 [**Day02（张量 与 自动微分）**](https://github.com/ZZHow1024/NN-DL-Learning/tree/main/Day02)
 
 [**Day03（自动微分 与 激活函数）**](https://github.com/ZZHow1024/NN-DL-Learning/tree/main/Day03)
+
+[**Day04（参数初始化、神经网络、损失函数 与 反向传播）**](https://github.com/ZZHow1024/NN-DL-Learning/tree/main/Day04)
