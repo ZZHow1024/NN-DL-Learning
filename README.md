@@ -29,3 +29,5 @@
 [**Day03（自动微分 与 激活函数）**](https://github.com/ZZHow1024/NN-DL-Learning/tree/main/Day03)
 
 [**Day04（参数初始化、神经网络、损失函数 与 反向传播）**](https://github.com/ZZHow1024/NN-DL-Learning/tree/main/Day04)
+
+[**Day05（梯度下降优化方法、学习率优化、学习率衰减策略、正则化 与 ANN案例）**](https://github.com/ZZHow1024/NN-DL-Learning/tree/main/Day05)
